@@ -17,7 +17,7 @@ class Config(object):
 
     API_ID = 7395896  # integer value, dont use ""
     API_HASH = "cd3998ddf318dad74d7c506731bc0abc"
-    TOKEN = "2109086316:AAFuex1ZvdGrkkNxwgKTdycfBVkCGM8HTHA"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    TOKEN = "2109513322:AAHyaDxoeO1td7XzsTk3_tHeR_zC6RZQ5ss"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 792109647  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "Venuja_Sadew"
     SUPPORT_CHAT = "Vnd Bot Supports"  # Your own group for support, do not add the @
@@ -29,7 +29,7 @@ class Config(object):
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
     # RECOMMENDED
-    SQLALCHEMY_DATABASE_URI = "mongodb+srv://Vndgroup:Vndgroup@cluster0.9oe9i.mongodb.net/cluster0?retryWrites=true&w=majority"  # needed for any database modules
+    SQLALCHEMY_DATABASE_URI = "postgres://frecopip:LlIsZsD-i6OaaWXcW5tihi31H6B725NN@fanny.db.elephantsql.com/frecopip"  # needed for any database modules
     REDIS_URI = " "
     LOAD = []
     NO_LOAD = ["rss", "cleaner", "connection", "math"]
