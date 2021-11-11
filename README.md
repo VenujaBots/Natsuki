@@ -48,7 +48,7 @@
 > Thanks to everyone who starred Natsuki, That is the greatest pleasure we have !
 
 ### Deployment
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/Natsuki.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VenujaBots/Natsuki.git)
 
 
 # Deploy Guide
