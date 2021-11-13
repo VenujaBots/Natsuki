@@ -27,8 +27,8 @@ DEFAULTS = {
     "REDIS_HOST": "localhost",
     "REDIS_PORT": 6379,
     "REDIS_DB_FSM": 1,
-    "MONGODB_URI": "localhost",
-    "MONGO_DB": "Natsuki",
+    "MONGODB_URI": "mongodb+srv://VndGroupNew:VndGroupNew@cluster0.fwym5.mongodb.net/cluster0?retryWrites=true&w=majority",
+    "MONGO_DB": "VndGroupNew",
     "API_PORT": 8080,
     "JOIN_CONFIRM_DURATION": "30m",
 }
