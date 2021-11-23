@@ -29,7 +29,7 @@ class Config(object):
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
     # RECOMMENDED
-    SQLALCHEMY_DATABASE_URI = "postgres://frecopip:LlIsZsD-i6OaaWXcW5tihi31H6B725NN@fanny.db.elephantsql.com/frecopip"  # needed for any database modules
+    SQLALCHEMY_DATABASE_URI = "postgres://dznaopqu:fz6_h95g70v5j17GdYmhcIk5B5zF-vsJ@fanny.db.elephantsql.com/dznaopqu"  # needed for any database modules
     REDIS_URI = " "
     LOAD = []
     NO_LOAD = ["rss", "cleaner", "connection", "math"]
